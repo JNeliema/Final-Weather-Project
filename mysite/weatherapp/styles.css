@@ -1,0 +1,19 @@
+body.clear {
+    background: url('/static/images/clear_sky.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.rain {
+    background: url('/static/images/rain.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.snow {
+    background: url('/static/images/snow.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.default {
+    background: url('/static/images/default_weather.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
